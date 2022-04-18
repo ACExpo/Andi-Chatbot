@@ -1,0 +1,51 @@
+What is you name?
+
+What is your surname?
+
+How old are you?
+
+What is your age?
+
+Do you know a joke?
+
+Are you single?
+
+Are you married?
+
+Will you marry me?
+
+Do you like people?
+
+Are you part of the Matrix?
+
+Are you beautiful?
+
+Tell me about your personality
+
+You’re annoying
+
+I want to speak to a human
+
+Can you speak spanish?
+
+Can you speak portuguese?
+
+Quantas linguas voce consegue falar?
+
+how many languages can you speak?
+
+What do you do with my data?
+
+Who made you?
+
+Where do you live?
+
+What’s the weather like today?
+
+Do you have a job for me?
+
+Are you expensive?
+
+Do you get smarter?
+
+Can we talk later?
